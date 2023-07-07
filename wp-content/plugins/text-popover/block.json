@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "text-popover/text-popover",
+	"title": "Text Popover",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "We can add popover content on selected text in WordPress block it's available on all blocks which have toolbar like paragraph block, heading block etc...",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "text-popover",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}

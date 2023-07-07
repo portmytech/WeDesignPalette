@@ -1,0 +1,78 @@
+[07-Jul-2023 08:36:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/wedesignpalette/public_html/wp-content/themes/Impreza/functions.php:10
+Stack trace:
+#0 /home/wedesignpalette/public_html/wp-settings.php(591): include()
+#1 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1356): require('/home/wedesignp...')
+#2 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1274): WP_CLI\Runner->load_wordpress()
+#3 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php(28): WP_CLI\Runner->start()
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php(78): WP_CLI\Bootstrap\LaunchRunner->process(Object(WP_CLI\Bootstrap\BootstrapState))
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php(32): WP_CLI\bootstrap()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/boot-fs.php(17): require_once('/usr/local/cpan...')
+#7 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/wpt-wp-cli.php(31): require_once('/usr/local/cpan...')
+#8 Command line code(1): require('/usr/local/cpan...')
+#9 {main}
+  thrown in /home/wedesignpalette/public_html/wp-content/themes/Impreza/functions.php on line 10
+[07-Jul-2023 08:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/wedesignpalette/public_html/wp-content/themes/Impreza/functions.php:10
+Stack trace:
+#0 /home/wedesignpalette/public_html/wp-settings.php(591): include()
+#1 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1356): require('/home/wedesignp...')
+#2 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1274): WP_CLI\Runner->load_wordpress()
+#3 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php(28): WP_CLI\Runner->start()
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php(78): WP_CLI\Bootstrap\LaunchRunner->process(Object(WP_CLI\Bootstrap\BootstrapState))
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php(32): WP_CLI\bootstrap()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/boot-fs.php(17): require_once('/usr/local/cpan...')
+#7 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/wpt-wp-cli.php(31): require_once('/usr/local/cpan...')
+#8 Command line code(1): require('/usr/local/cpan...')
+#9 {main}
+  thrown in /home/wedesignpalette/public_html/wp-content/themes/Impreza/functions.php on line 10
+[07-Jul-2023 08:37:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/wedesignpalette/public_html/wp-content/themes/Impreza/functions.php:10
+Stack trace:
+#0 /home/wedesignpalette/public_html/wp-settings.php(591): include()
+#1 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1356): require('/home/wedesignp...')
+#2 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1274): WP_CLI\Runner->load_wordpress()
+#3 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php(28): WP_CLI\Runner->start()
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php(78): WP_CLI\Bootstrap\LaunchRunner->process(Object(WP_CLI\Bootstrap\BootstrapState))
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php(32): WP_CLI\bootstrap()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/boot-fs.php(17): require_once('/usr/local/cpan...')
+#7 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/wpt-wp-cli.php(31): require_once('/usr/local/cpan...')
+#8 Command line code(1): require('/usr/local/cpan...')
+#9 {main}
+  thrown in /home/wedesignpalette/public_html/wp-content/themes/Impreza/functions.php on line 10
+[07-Jul-2023 08:37:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/wedesignpalette/public_html/wp-content/themes/Impreza/functions.php:10
+Stack trace:
+#0 /home/wedesignpalette/public_html/wp-settings.php(591): include()
+#1 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1356): require('/home/wedesignp...')
+#2 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1274): WP_CLI\Runner->load_wordpress()
+#3 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php(28): WP_CLI\Runner->start()
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php(78): WP_CLI\Bootstrap\LaunchRunner->process(Object(WP_CLI\Bootstrap\BootstrapState))
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php(32): WP_CLI\bootstrap()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/boot-fs.php(17): require_once('/usr/local/cpan...')
+#7 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/wpt-wp-cli.php(31): require_once('/usr/local/cpan...')
+#8 Command line code(1): require('/usr/local/cpan...')
+#9 {main}
+  thrown in /home/wedesignpalette/public_html/wp-content/themes/Impreza/functions.php on line 10
+[07-Jul-2023 08:37:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/wedesignpalette/public_html/wp-content/themes/Impreza/functions.php:10
+Stack trace:
+#0 /home/wedesignpalette/public_html/wp-settings.php(591): include()
+#1 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1356): require('/home/wedesignp...')
+#2 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1274): WP_CLI\Runner->load_wordpress()
+#3 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php(28): WP_CLI\Runner->start()
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php(78): WP_CLI\Bootstrap\LaunchRunner->process(Object(WP_CLI\Bootstrap\BootstrapState))
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php(32): WP_CLI\bootstrap()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/boot-fs.php(17): require_once('/usr/local/cpan...')
+#7 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/wpt-wp-cli.php(31): require_once('/usr/local/cpan...')
+#8 Command line code(1): require('/usr/local/cpan...')
+#9 {main}
+  thrown in /home/wedesignpalette/public_html/wp-content/themes/Impreza/functions.php on line 10
+[07-Jul-2023 08:37:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/wedesignpalette/public_html/wp-content/themes/Impreza/functions.php:10
+Stack trace:
+#0 /home/wedesignpalette/public_html/wp-settings.php(591): include()
+#1 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1356): require('/home/wedesignp...')
+#2 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1274): WP_CLI\Runner->load_wordpress()
+#3 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php(28): WP_CLI\Runner->start()
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php(78): WP_CLI\Bootstrap\LaunchRunner->process(Object(WP_CLI\Bootstrap\BootstrapState))
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php(32): WP_CLI\bootstrap()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/boot-fs.php(17): require_once('/usr/local/cpan...')
+#7 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/wpt-wp-cli.php(31): require_once('/usr/local/cpan...')
+#8 Command line code(1): require('/usr/local/cpan...')
+#9 {main}
+  thrown in /home/wedesignpalette/public_html/wp-content/themes/Impreza/functions.php on line 10
